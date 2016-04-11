@@ -24,13 +24,6 @@ Almost anything you can do in the QuickBooks GUI, in QuickBooks Online Edition, 
 * QuickBooks ONLINE (via Intuit Partner Platform/Intuit Anywhere) - read the [quick start guide for Intuit Partner Platform/QuickBooks Online] (http://www.consolibyte.com/docs/index.php/PHP_DevKit_for_QuickBooks_-_Intuit_Partner_Platform_Quick-Start)
 
 
-## Updates and Improvements
-
-Please follow me on Twitter to be notified about updates/improvements: 
-
-- https://twitter.com/keith_palmer_jr
-
-
 ## Support
 
 If you have questions, suggestions, or find a bug, the absolute best way to get support, report bugs, or ask for help is to ask on the forums:  
@@ -68,10 +61,3 @@ There is additional documentation and additional examples on our legacy and new 
 
 - http://wiki.consolibyte.com/wiki/doku.php/quickbooks     (legacy)  
 - http://www.consolibyte.com/docs/index.php/QuickBooks     (new wiki)  
-
-
-
-
--------------------------------------
-###Keith Palmer###
-- Follow me on Twitter for updates: https://twitter.com/keith_palmer_jr
